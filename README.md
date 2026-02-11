@@ -28,19 +28,19 @@ O projeto foi construído utilizando as seguintes bibliotecas e ferramentas:
 - ** Autenticação Administrativa:**
   - Login seguro com verificação de JWT armazenado em Cookies.
   - Proteção de rotas administrativas (Middleware de verificação).
-- **⚙️ Painel de Admin (CRUD):**
+- **Painel de Admin (CRUD):**
   - **Criar:** Editor para novas postagens.
   - **Editar:** Atualização de conteúdo existente.
   - **Excluir:** Remoção de postagens.
 
-## 🛠️ Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
 - [Node.js](https://nodejs.org/) (Versão 16 ou superior recomendada)
 - [MongoDB](https://www.mongodb.com/) (Rodando localmente ou via MongoDB Atlas)
 - Git
 
-## 📦 Instalação e Configuração
+## Instalação e Configuração
 
 1. **Clone o repositório:**
    
