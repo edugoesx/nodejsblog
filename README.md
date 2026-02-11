@@ -2,7 +2,6 @@
 
 Um sistema de blog completo e funcional desenvolvido com **Node.js**, **Express** e **MongoDB**. O projeto oferece autenticação segura, painel administrativo e operações de CRUD para postagens, utilizando **EJS** para renderização front-end.
 
-![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-green)
 
 ## Tecnologias Utilizadas
